@@ -11,19 +11,6 @@
 
 ---
 
-### 👋 About
-
-I spent 7 years at **Samsung R&D** growing from Software Engineer to **Chief Engineer** — learning how to build software that holds up at scale. Now I'm at **Carnegie Mellon** for an **MS in Product Management**, pairing that engineering depth with sharp product thinking.
-
-I gravitate toward problems where the hard engineering *is* the product: agentic LLM systems, real-time apps, and applied ML. My default move — find the sharp technical primitive under a fuzzy problem, then ship the smallest version that proves it.
-
-```yaml
-role:      Engineer × Product Manager
-focus:     multi-agent LLM systems, full-stack, applied ML
-approach:  typed end-to-end · small composable modules · ship → measure → iterate
-based:     Pittsburgh, PA  (BITS Pilani → Samsung → CMU)
-```
-
 ### 🧠 What I'm building
 
 - **Multi-agent intelligence pipelines** — orchestrating LLM agents with fan-out/fan-in, tool use, and schema-validated output.
